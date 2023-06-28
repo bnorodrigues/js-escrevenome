@@ -1,1 +1,1 @@
-# js-escrevenome
+# js-projeto pensamento computacional 💻 🤔
